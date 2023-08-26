@@ -4,8 +4,6 @@ import Carousel from "react-bootstrap/Carousel";
 
 const Home = () => {
   return (
-
-     
       <Row className="justify-content-center align-items-center" style={{ marginTop:"0px" ,width:"1330px" }}>
         <Col lg={10}>
           <Carousel>

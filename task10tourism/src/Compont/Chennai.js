@@ -10,7 +10,7 @@ const Chennai = () => {
                 <div className='leftside'>
                 <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;01.Chennai</h2>
                 <div className= "img1">
-                <img src={require("../img/Chennai.jpeg")}  className="img-fluid rounded-start"
+                <img src={require("../img/Chennai.jpeg")}  className="img-fluid"
                 alt="Chennai"
                 style={{ maxWidth: 'auto', height: 'auto' }} />
                 </div>

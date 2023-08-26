@@ -24,7 +24,7 @@ header {
 h3{
     font-weight: bold;
 }
-nav a {
+nav .it {
     margin-left: 10px;
 	/* margin: 0 1rem; */
 	color: var(--textColor);
