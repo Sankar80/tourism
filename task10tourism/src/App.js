@@ -8,6 +8,7 @@ import Navbar from "./Navbar";
 
 import Place1 from "./Place1" 
 import BestTimeToVisit from "./Navitem/BestTimeToVisit"
+import Food from "./Navitem/Food"
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
         <Route path="/" element={<Place1 />} />
         <Route path="/PlacesToVisit" element={<PlacesToVisit />} />
         <Route path="/BestTimeToVisit" element={<BestTimeToVisit />} />
+        <Route path="/Food" element={<Food />} />
       </Routes>
  
     </div>

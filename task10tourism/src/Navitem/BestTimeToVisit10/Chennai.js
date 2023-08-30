@@ -14,7 +14,7 @@ const Chennai = () => {
   const handleClose = () => setShow(false);
   const handleShow = () => setShow(true);
   
-  return (
+  return (  
     <div className='container'>
       <h3 className='tourism-heading text-center'>
         TAMILNADU TOURISM
