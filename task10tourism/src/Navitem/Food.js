@@ -1,5 +1,5 @@
 import React from 'react'
-import { Card, Container, Figure } from 'react-bootstrap'
+import { Container, Figure } from 'react-bootstrap'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './Food.css'
 

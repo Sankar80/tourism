@@ -10,8 +10,7 @@ const Navbar = () => {
       <Link to = "/" className='it'>Home</Link>
       <Link to = "/PlacesToVisit" className='it'>Places To Visit</Link>
       <Link to = "/BestTimeToVisit" className='it'>Best Time To Visit</Link>
-      <Link to = "/Packages" className='it'>Packages</Link>
-      <Link to = "/Destination" className='it'>Destination</Link>
+      <Link to = "/pk" className='it'>Packages</Link>
       <Link to = "/Food" className='it'>Food</Link>
     </nav>
     </header>
